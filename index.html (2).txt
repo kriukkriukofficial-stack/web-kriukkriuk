@@ -1,0 +1,26 @@
+kriukkriuk/
+├─ app/
+│ ├─ page.tsx
+│ ├─ layout.tsx
+│ ├─ globals.css
+│ └─ favicon.ico
+├─ components/
+│ ├─ Hero.tsx
+│ ├─ ProductShowcase.tsx
+│ ├─ Marquee.tsx
+│ ├─ Testimonials.tsx
+│ ├─ Stats.tsx
+│ ├─ MysteryBox.tsx
+│ ├─ FloatingWhatsApp.tsx
+│ └─ Footer.tsx
+├─ lib/
+│ └─ products.ts
+├─ public/
+│ ├─ products/
+│ ├─ logo.png
+│ └─ hero/
+├─ package.json
+├─ tailwind.config.ts
+├─ postcss.config.js
+├─ tsconfig.json
+└─ next.config.ts
